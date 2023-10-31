@@ -1,0 +1,29 @@
+{
+  "name": "wikeddiff",
+  "version": "1.0.0",
+  "description": "Mirror of wikEd diff, a free JavaScript visual diff library for inline text comparisons",
+  "main": "wikeddiff.js",
+  "types": "wikeddiff.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohk/wikeddiff.git"
+  },
+  "keywords": [
+    "diff",
+    "visual",
+    "diff",
+    "diffing",
+    "text",
+    "diff",
+    "wikipedia"
+  ],
+  "author": "Cacycle (https://en.wikipedia.org/wiki/User:Cacycle)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/xiaohk/wikeddiff/issues"
+  },
+  "homepage": "https://github.com/xiaohk/wikeddiff#readme"
+}
